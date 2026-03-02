@@ -1,3 +1,6 @@
+console.log("Script carregado");
+console.log(document.readyState);
+console.log(document.getElementById("btnGet"));
 const out = document.getElementById("out");
 const btnGet = document.getElementById("btnGet");
 const btnPost = document.getElementById("btnPost");
